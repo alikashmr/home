@@ -1042,6 +1042,10 @@ p, ul, ol {
     font-size: 30px ;
   }
 
+  .header{
+    height: 500px;
+  }
+
   
 }
 
