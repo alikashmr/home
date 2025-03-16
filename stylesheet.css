@@ -1046,6 +1046,16 @@ p, ul, ol {
     height: 500px;
   }
 
+  .co-md-4{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .featured2{
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   
 }
 
